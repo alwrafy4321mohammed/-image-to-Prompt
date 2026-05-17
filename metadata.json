@@ -1,0 +1,6 @@
+{
+  "name": "PixelSense AI - Image to Prompt",
+  "description": "Professional tool to convert images into detailed English prompts for AI generation while preserving privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
